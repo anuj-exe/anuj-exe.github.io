@@ -1,0 +1,15 @@
+{
+  "engines": {
+    "node": "16.17.0"
+  },
+
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "testing the logger",
+  "main": "logger.js",
+  "scripts": {
+      "start": "node logger.js"
+  },
+  "author": "Anuj, Akshat",
+  "license": "ISC"
+}
